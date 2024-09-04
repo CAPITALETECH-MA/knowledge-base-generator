@@ -14,7 +14,7 @@ This API combines multiple Markdown files from a specified directory into a sing
 
 1. Install dependencies:
    ```bash
-   npm install express
+   npm install
    ```
 
 2. Run the server:
